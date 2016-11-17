@@ -1,0 +1,25 @@
+body{
+    background-color: olive;
+    border-width: 2px;
+}
+h1{
+    color: burgundy;
+    text-align: center;
+
+}
+h2{
+    color: orange;
+    text-align: center;
+
+}
+
+h3{
+    color: brown;
+    text-align: center;
+
+}
+
+p{
+    font-size: 15px;
+    padding: 5px;
+}
