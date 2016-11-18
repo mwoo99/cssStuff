@@ -1,0 +1,37 @@
+#head1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: pink;
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+}
+
+.navzone {
+    color: red;
+    background-color: lightsteelblue;
+}
+
+#tehlulz {
+    font-size: 50px;
+    color: black;
+}
+
+h2 {
+    font-size: 20px;
+    color: white;
+    background-color: lightsteelblue;
+    text-align: center;
+}
+
+
+.content {
+    font-size: 20px;
+    color: navy;
+}
+
+.prose {
+    text-align: center;
+    word-spacing: 2px;
+}
+
