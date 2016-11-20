@@ -1,0 +1,58 @@
+body{
+	background-color: #839788;
+}
+h1{
+	font-size: 3em;
+}
+
+h2{
+	font-size: 32px
+}
+
+h3{
+	font-size: 32px;
+}
+p{
+	color: #E5D1D0;
+}
+#para1{
+	font-size: 23px;
+}
+
+#para2{
+	font-size: 20px;
+	text-decoration: line-through;
+
+}
+
+.para3{
+	font-size: 20px;
+}
+
+#list1{
+	color: #583E23;
+	font-size: 1em;
+	padding: 10px;
+	background-color: #8FA6CB;
+	border: double #13262F;
+}
+
+#list2{
+	color: #583E23;
+	font-size: 1em;
+	padding: 10px;
+	background-color: #FE5F55;
+	border: double #13262F;
+}
+
+.heading{
+	text-align: center;
+	padding: 30px;
+	animation: colorchange 5s linear infinite alternate;
+}
+
+@keyframes colorchange {
+	from {color: #F0D3F7;}
+	to {color: #120D31;}
+}
+
